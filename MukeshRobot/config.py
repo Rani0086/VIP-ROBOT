@@ -17,14 +17,14 @@ class Config(object):
     API_ID = "14050586" # integer value, dont use ""
     API_HASH = "42a60d9c657b106370c79bb0a8ac560c"
     TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = "1808943146" # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "THE_VIP_BOY"
-    SUPPORT_CHAT = "TG_FRIENDSS"  # Your own group for support, do not add the @
+    OWNER_ID = "7526369190" # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "queen143np"
+    SUPPORT_CHAT = "waifexanime"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1001723893843
+        -1002494871325
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001723893843
+        -1002494871325
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     MONGO_DB_URI= "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
