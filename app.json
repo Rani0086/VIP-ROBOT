@@ -13,7 +13,7 @@
    "addons": [
       {
          "options": {
-            "version": "12"
+            "version": "15"
          },
          "plan": "heroku-postgresql"
       }
@@ -22,12 +22,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "14050586"
+         "value": "23255238"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "42a60d9c657b106370c79bb0a8ac560c"
+         "value": "009e3d8c1bdc89d5387cdd8fd182ec15"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -55,7 +55,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1808943146"
+         "value": "7526369190"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
@@ -65,7 +65,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "TG_FRIENDSS"
+         "value": "waifexanime"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
